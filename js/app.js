@@ -53,7 +53,7 @@ function mostrarInicio(){
 </section>
 <h2>🔥 Em destaque</h2>
 <div class="filmes">
-<div class="card" data-filme="Michael"><img class="poster" src="https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" alt="Michael"><div class="card-conteudo"><h3>Michael</h3><p>Biografia • 2025</p></div></div>
+<div class="card" data-filme="Michael"><img class="poster" src="https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" alt="Michael"><div class="card-conteudo"><h3>Michael</h3><p>Biografia • 2026</p></div></div>
 <div class="card" data-filme="Homem-Aranha: Sem Volta para Casa"><img class="poster" src="https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg" alt="Homem-Aranha"><div class="card-conteudo"><h3>Homem-Aranha: Sem Volta para Casa</h3><p>Ação • 2021</p></div></div>
 <div class="card" data-filme="Vingadores: Ultimato"><img class="poster" src="https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg" alt="Vingadores"><div class="card-conteudo"><h3>Vingadores: Ultimato</h3><p>Ação • 2019</p></div></div>
 <div class="card" data-filme="The Flash"><img class="poster" src="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" alt="The Flash"><div class="card-conteudo"><h3>The Flash</h3><p>Ação • 2023</p></div></div>
